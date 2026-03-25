@@ -30,6 +30,7 @@ Onze focus ligt op:
   <li>Beheer en onderhoud van vastgoed</li>
 </ul>
 
+
 <p>
 Meer over onze organisatie:
 </p>
@@ -38,23 +39,6 @@ Meer over onze organisatie:
 🌐 <a href="https://bremenba.nl" target="_blank">bremenba.nl</a><br/>
 🌐 <a href="www.linkedin.com/company/bremen-bouwadviseurs" target="_blank">LinkedIn</a><br/>
 📄 <a href="https://bremenba.nl/onze-diensten/" target="_blank">Onze diensten</a>
-</p>
-
----
-
-<h3>Onze technologie</h3>
-
-<p>
-Binnen onze projecten en interne ontwikkeling maken wij onder andere gebruik van:
-</p>
-
-<p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -68,11 +52,10 @@ Binnen deze organisatie ontwikkelen en beheren wij software en tools ter onderst
 <ul>
   <li>Energie- en verbruiksanalyses</li>
   <li>Rekenmodellen en simulaties</li>
-  <li>Dataverwerking (o.a. KNMI en gebouwdata)</li>
+  <li>Dataverwerking</li>
   <li>Visualisaties en dashboards</li>
   <li>Interne tools voor projectondersteuning</li>
 </ul>
-
 
 ---
 
@@ -84,6 +67,3 @@ Binnen deze organisatie ontwikkelen en beheren wij software en tools ter onderst
 
 ---
 
-<p align="center">
-<i>Engineering clarity into buildings.</i>
-</p>
