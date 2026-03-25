@@ -1,4 +1,4 @@
-<h1>🏗️ Bremen Bouwadviseurs</h1>
+<h1>Bremen Bouwadviseurs</h1>
 
 <p>
 Welkom bij de GitHub organisatie van <b>Bremen Bouwadviseurs</b>.<br/>
@@ -72,16 +72,13 @@ Binnen deze organisatie ontwikkelen en beheren wij software en tools ter onderst
   <li>Interne tools voor projectondersteuning</li>
 </ul>
 
-<p>
-De repositories zijn gericht op praktische toepassingen binnen de gebouwde omgeving, met een nadruk op betrouwbaarheid, reproduceerbaarheid en efficiëntie.
-</p>
 
 ---
 
 <h3>Contact</h3>
 
 <p>
-🌐 <a href="https://bremenba.nl" target="_blank">https://bremenba.nl</a>
+🌐 <a href="https://bremenba.nl/contact/" target="_blank"BremenBa - Contact</a>
 </p>
 
 ---
