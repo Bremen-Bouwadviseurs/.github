@@ -36,6 +36,7 @@ Meer over onze organisatie:
 
 <p>
 🌐 <a href="https://bremenba.nl" target="_blank">bremenba.nl</a><br/>
+🌐 <a href="www.linkedin.com/company/bremen-bouwadviseurs" target="_blank">LinkedIn</a><br/>
 📄 <a href="https://bremenba.nl/onze-diensten/" target="_blank">Onze diensten</a>
 </p>
 
@@ -78,7 +79,7 @@ Binnen deze organisatie ontwikkelen en beheren wij software en tools ter onderst
 <h3>Contact</h3>
 
 <p>
-🌐 <a href="https://bremenba.nl/contact/" target="_blank"BremenBa - Contact</a>
+🌐 <a href="https://bremenba.nl/contact" target="_blank">BremenBa - Contact</a>
 </p>
 
 ---
